@@ -62,6 +62,11 @@ Here's an example of how the system detects and alerts on trespassing:
 
 ![TresPassGuard Example](https://github.com/deepaks11/TresPass_StoreGuard/blob/master/ezgif-3-994b36eae2.gif)
 
+## Author
+**Deepak.s**
+- [GitHub](https://github.com/deepaks11)
+- [Email](mailto:deepaklsm11@gmail.com)
+
 ## Contributing
 
 We welcome contributions to enhance TresPassGuard. If you have any ideas or improvements, please open an issue or submit a pull request.
