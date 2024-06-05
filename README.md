@@ -60,7 +60,7 @@ and alert mechanisms to notify store owners of unauthorized movements. TresPassG
 
 Here's an example of how the system detects and alerts on trespassing:
 
-![TresPassGuard Example](./path_to_your_image.png)
+![TresPassGuard Example](https://github.com/deepaks11/TresPass_StoreGuard/blob/master/ezgif-3-994b36eae2.gif)
 
 ## Contributing
 
